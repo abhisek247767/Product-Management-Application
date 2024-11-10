@@ -1,4 +1,4 @@
-<h1 align="center">Product management APP 🚀</h1>
+<h1 align="center">Product Management App 🚀</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
@@ -32,4 +32,3 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
