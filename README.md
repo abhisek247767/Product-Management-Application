@@ -1,4 +1,4 @@
-<h1 align="center"Product management APP 🚀</h1>
+<h1 align="center">Product management APP 🚀</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
